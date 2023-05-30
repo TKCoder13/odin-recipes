@@ -6,10 +6,10 @@ So far, I have learned about the basics of HTML.  This includes:
 
 - HTML Boilerplate
 - Elements and Tags
-    - Title and Body Elements <Heading>, <Body>
-    - Text Elements <p>, <strong>, <em>, <h1>, <!--Comments-->
+    - Title and Body Elements (Heading, Body, etc.)
+    - Text Elements (p, strong, em, h1, comments, etc.)
     - Nesting Elements
-    - Lists <li>, <ul>, <ol>
+    - Lists (li, ul, and ol)
     - Links and Images (absolute and relative paths)
 
 I have also learned more about Git and how to write proper commmit messages.  The Seven Rules of a Great Git Commit Message:
